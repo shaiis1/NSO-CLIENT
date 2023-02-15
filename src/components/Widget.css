@@ -1,0 +1,19 @@
+.widget{
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+}
+
+.widget:last-child{
+    margin-left: 1rem;
+}
+
+.widgetDetailContainer{
+    display: flex;
+    flex-direction: row;
+}
+
+.icon{
+    height: 24px;
+    width: 24px;
+}

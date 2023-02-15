@@ -1,0 +1,26 @@
+.title{
+    font-size: 2rem;
+    text-decoration: underline;
+}
+
+.formContainer{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
+
+.inputLabel{
+    margin-top: 1rem;
+    font-weight: 600;
+}
+
+.inputLabel:first-child{
+    margin-top: 1.5rem;
+}
+
+.labelText{
+    background-color: aqua;
+    padding: 5px;
+    border-radius: 12px;
+    border: 1px solid blue;
+}

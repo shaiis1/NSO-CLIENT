@@ -1,0 +1,45 @@
+.widgetListTitle{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 2rem;
+    text-decoration: underline;
+}
+
+.addWidgetBtn{
+    background-color: aquamarine;
+    border: 1px solid;
+    border-radius: 16px;
+    box-shadow: 0px 5px 15px;
+    padding: 0.5rem 1rem;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.btnWrapper{
+    text-align: left;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+
+.btnTxt{
+    margin-left: 0.5rem;
+    font-weight: 600;
+}
+
+.widgetContainer{
+    margin: auto;
+    margin-top: 2rem;
+    cursor: pointer;
+    border: 1px solid;
+    padding: 1rem;
+    border-radius: 16px;
+    box-shadow: 0px 5px 15px;
+}
+
+.widgetContainer:hover{
+    background-color: lightcyan;
+}
+
+.selected{
+    background-color:lightyellow;
+}
